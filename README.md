@@ -3,7 +3,8 @@
 
 - 🔭 Estou atualmente trabalhando como freelancer em Front-end
 - 🌱 Estou atualmente aprendendo React
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
+</br>
   
 <div  align="center" style="margin-bottom:100px">
 <img width=54% align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
@@ -15,9 +16,9 @@
 
 
 
-## My Skills
+## Minhas Skills
 
-#### Main Stack:
+#### Principais conhecimentos:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -28,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Studying in this moment:
+#### Estudando neste momento:
 
 ![GCP](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
@@ -37,7 +38,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/alexandro_carraro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
